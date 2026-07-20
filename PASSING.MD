@@ -1,6 +1,6 @@
 ## Passing
 During or before my death, I expect that my GitHub projects (referring to my (Thyrocytes) repositories) will:
-- be forked unofficially or will be managed in the future by a contributor
+- be forked unofficially (these rules will **not** be enforced on forks, but it's still good to follow them) or managed by a contributor who's passionate about my projects
 - not have "terrible code"; terrible code may refer to code that
   - makes the program overall have worse performance; forcing more work onto the CPU and/or GPU and/or allocating more memory than needed,
   - is AI-generated,
@@ -16,3 +16,5 @@ During or before my death, I expect that my GitHub projects (referring to my (Th
       - and general and/or essential purpose of the project
     - small changes in the README, for example a more newer benchmark or throughput test.
 - always abide to the GitHub Terms of Use.
+
+These rules were made to ensure that all past, present, and future contributors know what to do once they start managing my projects.
