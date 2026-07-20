@@ -1,8 +1,8 @@
 ## Passing
 During or before my death, I expect that my GitHub projects (referring to my (Thyrocytes) repositories) will:
-- be forked unofficially or will be managed in the future by a genuinel
+- be forked unofficially or will be managed in the future by a contributor
 - not have "terrible code"; terrible code may refer to code that
-  - makes the program overall have worse performance; forcing more work onto the CPU and/or GPU and/or allocating more memory than desired,
+  - makes the program overall have worse performance; forcing more work onto the CPU and/or GPU and/or allocating more memory than needed,
   - is AI-generated,
   - is rushed; code that is made to ship updates faster with no benefits in mind and/or may violate any preceding and succeeding rules; this rule can be excluded if you are patching a security vulnerability, but the patch must not violate any of the preceding and succeeding rules; security vulnerabilities refer to bugs in the code that can be abused to execute arbitrary code in the app and/or system,
   - goes against any contributing rules listed in the project,
