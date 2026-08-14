@@ -2,8 +2,11 @@
 During or before my death, I expect that my GitHub projects (referring to my (Thyrocytes) repositories) will:
 - be forked unofficially (these rules will **not** be enforced on forks, but it's still good to follow them) or managed by a contributor who's passionate about my projects
 - not have "terrible code"; terrible code may refer to code that
-  - makes the program overall have worse performance; forcing more work onto the CPU and/or GPU and/or allocating memory that has no good benefit for the program,
-  - is AI-generated - only exception is that the contributor and/or others need to review their AI-generated code fully, ensure the code does not violate any preceding and succeeding rules, and does not change the design of or otherwise "rebrand" the code or project partially or fully - however, it is still **greatly recommended** to write the code yourself to actively maintain "good code quality and consistency" as defined by these rules,
+  - makes the program overall have worse performance; forcing more work onto the CPU and/or GPU and/or allocating memory that has no meaningful benefit for the program,
+  - is AI-generated - only exception is that the contributor and/or other contributors need to review the code and ensure it doesn't:
+    - violate any preceding and succeeding rules,
+    - change the design of or otherwise "rebrand" the code or project partially or fully
+  - however, it is still **greatly recommended and encouraged** to write the code yourself to actively maintain good code quality and consistency as defined by these rules,
   - is rushed; code that is made to ship updates faster with no benefits in mind and/or may violate any preceding and succeeding rules; this rule can be excluded if you are patching a security vulnerability, but the patch must not violate any of the preceding and succeeding rules; security vulnerabilities refer to bugs in the code that can be abused to execute arbitrary code in the app and/or system,
   - goes against any contributing rules listed in the project,
   - and is commonly or deliberately going against "good practices" specific to the programming language.
