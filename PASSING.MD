@@ -3,7 +3,7 @@ During or before my death, I expect that my GitHub projects (referring to my (Th
 - be forked unofficially (these rules will **not** be enforced on forks, but it's still good to follow them) or managed by a contributor who's passionate about my projects
 - not have "terrible code"; terrible code may refer to code that
   - makes the program overall have worse performance; forcing more work onto the CPU and/or GPU and/or allocating memory that has no meaningful benefit for the program,
-  - is AI-generated - the only exception is that the contributor and/or other contributors need to review the code and ensure it doesn't:
+  - is AI-generated - the only exception is that the contributor and/or other contributors need to review the AI code and ensure it doesn't:
     - violate any preceding and succeeding rules,
     - change the design of or otherwise "rebrand" the code or project partially or fully
   - however, contributors are **strongly recommended and encouraged to write the code themselves** to actively maintain good code quality and consistency as defined by these rules,
